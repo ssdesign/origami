@@ -8,8 +8,7 @@ Unless specified, these code samples are open source and free to use as long as 
 This is a recreation of the default sample demo "Slinkin Park".
 I have re-created this using Origami Studio and you can see that now you need to use only a few connections to create this.
 
-## Watch video on youtube
-[![SLINKING DEMO](http://www.ssdesigninteractive.com/slinkin.png)](https://www.youtube.com/watch?v=kDrCZNf8O0Q)
+
 
 
 # Card Swipe Demo:
