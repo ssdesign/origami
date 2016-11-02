@@ -1,7 +1,7 @@
 # Origami Studio Demos
 Origami Studio Experiments
 
-These experimental code samples have been created using Origami Studio by Sajid Saiyed (sajid.saiyed@gmail.com)#
+These experimental code samples have been created using Origami Studio by Sajid Saiyed (sajid.saiyed@gmail.com)
 Unless specified, these code samples are open source and free to use as long as you retain the credits in the code.
 
 # Slinkin Demo:
