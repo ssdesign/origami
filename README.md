@@ -1,4 +1,4 @@
-# origami
+# Origami Studio Demos
 Origami Studio Experiments
 
 These experimental code samples have been created using Origami Studio by Sajid Saiyed (sajid.saiyed@gmail.com)#
