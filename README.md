@@ -24,4 +24,4 @@ Do let me know if you find a better or easier way to re-create this effect. I am
 # Dynamic Cards:
 Created this new Demo for Dynamic Card layout with animating progress rings.
 This is work in progress file.
-[![CARD SWIPE DEMO](http://www.ssdesigninteractive.com/cardswipe.png)]
+![CARD SWIPE DEMO](http://www.ssdesigninteractive.com/cardswipe.png)
