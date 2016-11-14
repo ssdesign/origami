@@ -12,6 +12,7 @@ There is a lot going on in this:
 - The header image has a parallax effect when dragged up but no parallax while coming down.
 - The additional information page closes if you drag it down to a certain distance and release the touch.
 
+## Watch video on youtube
 [![SLINKING DEMO](http://www.ssdesigninteractive.com/google_inbox.png)](https://youtu.be/wEvblIGjYeo)
 
 
