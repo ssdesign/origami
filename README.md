@@ -15,6 +15,13 @@ There is a lot going on in this:
 ## Watch video on youtube
 [![SLINKING DEMO](http://www.ssdesigninteractive.com/google_inbox.png)](https://youtu.be/wEvblIGjYeo)
 
+## Instagram Editor (Re-Design)
+After experiencing the instagram photo editor for a while, I found that there were a lot of back and forth interactions for very simple controls. I wanted to re-design it so that it is more user friendly and easy to use.
+
+This design is one such attempt to simplify the photo editor.
+
+## Watch the video on youtube
+[![Instagram Photo Editor Re-Design](http://www.ssdesigninteractive.com/instagram_Editor.png)](https://youtu.be/TMVVzpRuIqI)
 
 # Slinkin' Park Demo:
 This is a recreation of the default sample demo "Slinkin Park".
