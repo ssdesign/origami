@@ -13,7 +13,7 @@ There is a lot going on in this:
 - The additional information page closes if you drag it down to a certain distance and release the touch.
 
 ## Watch video on youtube
-[![SLINKING DEMO](http://www.ssdesigninteractive.com/google_inbox.png)](https://youtu.be/wEvblIGjYeo)
+[![SLINKING DEMO]([http://www.ssdesigninteractive.com/google_inbox.png](https://drive.google.com/file/d/1i0wAeOQGjO-FD7IXXVHt350sR6Nz_oW2/view?usp=sharing))](https://youtu.be/wEvblIGjYeo)
 
 ## Instagram Editor (Re-Design)
 After experiencing the instagram photo editor for a while, I found that there were a lot of back and forth interactions for very simple controls. I wanted to re-design it so that it is more user friendly and easy to use.
