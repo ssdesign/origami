@@ -28,7 +28,7 @@ This is a recreation of the default sample demo "Slinkin Park".
 I have re-created this using Origami Studio and you can see that now you need to use only a few connections to create this.
 
 ## Watch video on youtube
-[![SLINKING DEMO](http://www.ssdesigninteractive.com/slinkin.png)](https://www.youtube.com/watch?v=kDrCZNf8O0Q)
+[![SLINKING DEMO](https://storage.googleapis.com/ssdesign-123.appspot.com/slinkin.png)](https://www.youtube.com/watch?v=kDrCZNf8O0Q)
 
 
 # Card Swipe Demo:
@@ -37,7 +37,7 @@ I have re-created this using Origami Studio and you can see that now you need to
 Do let me know if you find a better or easier way to re-create this effect. I am learning as I make these demos :)
 
 ## Watch video on youtube
-[![CARD SWIPE DEMO](http://www.ssdesigninteractive.com/card_swipe.png)](https://youtu.be/uMf3qO3IHcE)
+[![CARD SWIPE DEMO](https://storage.googleapis.com/ssdesign-123.appspot.com/card_swipe.png)](https://youtu.be/uMf3qO3IHcE)
 
 
 # Dynamic Cards:
