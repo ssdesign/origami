@@ -21,7 +21,7 @@ After experiencing the instagram photo editor for a while, I found that there we
 This design is one such attempt to simplify the photo-editor.
 
 ## Watch the video on youtube
-[![Instagram Photo Editor Re-Design](http://www.ssdesigninteractive.com/instagram_Editor.png)](https://youtu.be/TMVVzpRuIqI)
+[![Instagram Photo Editor Re-Design](https://storage.googleapis.com/ssdesign-123.appspot.com/instagram_Editor.png)](https://youtu.be/TMVVzpRuIqI)
 
 # Slinkin' Park Demo:
 This is a recreation of the default sample demo "Slinkin Park".
